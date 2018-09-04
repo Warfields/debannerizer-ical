@@ -1,8 +1,8 @@
-# debannerizer
+# debannerizer ical
 
-A Python tool for scraping class schedules from the Mines _Self-Service Banner_
-system into a database. Produced as a final project for CSCI-403 by Jack
-Rosenthal, Ariel Shlosberg, and Nicholas Lantz (aka. _That Rubik's Cube Team_).
+An addition to Jack's oringal code to output an ical file for Google Calendar and other schedulers
+
+**THIS IS NOT COMPLETED YET**
 
 ## Required Packages
 
@@ -32,3 +32,9 @@ the term follows as the next digit, followed by a zero to fill.
 
 We included some cool examples of how to use the data with SQLAlchemy in
 `examples.py`.
+
+## Original debannerizer
+
+A [Python tool](https://github.com/ColoradoSchoolOfMines/debannerizer) for scraping class schedules from the Mines _Self-Service Banner_
+system into a database. Produced as a final project for CSCI-403 by Jack
+Rosenthal, Ariel Shlosberg, and Nicholas Lantz (aka. _That Rubik's Cube Team_).
